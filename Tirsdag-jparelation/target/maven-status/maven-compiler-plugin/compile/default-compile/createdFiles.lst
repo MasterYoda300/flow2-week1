@@ -1,0 +1,4 @@
+test\Tester.class
+entity\Customer.class
+entity\Address.class
+facade\CustomerFacade.class
